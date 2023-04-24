@@ -1,0 +1,15 @@
+
+.header {
+  width: 100%;
+}
+
+.logo {
+  display: inline-flex;
+  align-items: center;
+  font-weight: 700;
+}
+
+.logoImage {
+  max-width: 5vw;
+  max-height: 5vw;
+}
