@@ -1,15 +1,33 @@
 
-.header {
+.Header {
   width: 100%;
+  display: inline-flex;
+  justify-content: space-between;
 }
 
 .logo {
   display: inline-flex;
   align-items: center;
   font-weight: 700;
+  font-size: 1.5vw;
 }
 
 .logoImage {
-  max-width: 5vw;
-  max-height: 5vw;
+  max-width: 3.5vw;
+  max-height: 3.5vw;
+}
+
+.change-language {
+  font-weight: 700;
+  background-color: #93001A;
+  border-radius: 0.7vw;
+  padding: 0.7vw;
+  margin: 0.7vw;
+  cursor: pointer;
+}
+
+.change-language p{
+  margin:0;
+  font-size: 1.2vw;
+  color: white;
 }
