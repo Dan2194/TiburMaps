@@ -9,6 +9,7 @@ document.addEventListener("DOMContentLoaded", async () => {
   translations = await fetchTranslationsFor(locale);
   setLocale(locale);
   bindLocaleSwitcher(locale);
+
 });
 
 // ...
@@ -17,19 +18,26 @@ document.addEventListener("DOMContentLoaded", async () => {
 // load the locale's translations and update
 // the page
 function bindLocaleSwitcher(initialValue) {
-  const switcher = document.querySelector("[data-i18n-switcher]");
-  switcher.value = initialValue;
-  switcher.onchange = (e) => {
-    // Set the locale to the selected option[value]
-    setLocale(e.target.value);
-    localStorage.setItem("locale", e.target.value);
-  };
+  const switcher = document.querySelectorAll("[data-i18n-switcher]");
+  if(!switcher) return;
+ // switcher.value = initialValue;
+  switcher.forEach(s=>{
+    s.onclick = (e) => {
+      // Set the locale to the selected option[value]
+      let t = e.target;
+      if(t instanceof HTMLParagraphElement||t instanceof HTMLImageElement)
+        t=t.parentElement;
+      setLocale(t.dataset.value);
+      localStorage.setItem("locale", t.dataset.value);
+    };
+  })
+
 }
 
 // Load translations for the given locale and translate
 // the page to this locale
 async function setLocale(newLocale) {
-  if (newLocale === locale) return;
+  // if (newLocale === locale) return;
   translations = await fetchTranslationsFor(newLocale);
   locale = newLocale;
   translatePage();
@@ -57,3 +65,9 @@ function translateElement(element) {
   const translation = translations[key];
   element.innerText = translation;
 }
+
+document.querySelectorAll("[data-i18n-switcher]").forEach(function(element) {
+  element.addEventListener('click', function(e) {
+    window.location.href = '/home';
+  }, false);
+});

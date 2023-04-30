@@ -10,13 +10,14 @@
   <link rel="stylesheet" href="../css/header.css">
 </head>
 <body style="height:100%;">
-
+<!--
 <label>
   <select data-i18n-switcher class="locale-switcher">
     <option value="en">English</option>
     <option value="it">Italiano</option>
   </select>
 </label>
+-->
 
 <div class="container">
   <div class="Header" style="justify-self: left;">
@@ -31,18 +32,36 @@
     </h1>
   </div>
 
-  <a href="/home"><img class="italianFlag flag" src="../img/flags/italiano.png" alt="Italiano"></a>
-  <img class="englishFlag flag" src="../img/flags/inglese.png" alt="Inglese">
-  <img class="frenchFlag flag" src="../img/flags/francese.png" alt="Francese">
+  <div data-i18n-switcher data-value="it">
+  <img class="italianFlag flag" src="../img/flags/italiano.png" alt="Italiano">
   <p class="italianTitle">Italiano</p>
-  <p class="englishTitle">English</p>
-  <p class="frenchTitle">Français</p>
+  </div>
+
+  <div data-i18n-switcher data-value="en">
+  <img class="englishFlag flag" src="../img/flags/inglese.png" alt="Inglese">
+    <p class="englishTitle">English</p>
+  </div>
+
+  <div data-i18n-switcher>
+  <img class="frenchFlag flag" src="../img/flags/francese.png" alt="Francese">
+    <p class="frenchTitle">Français</p>
+  </div>
+
+  <div data-i18n-switcher>
   <img class="romanianFlag flag" src="../img/flags/rumeno.png" alt="Italiano">
+    <p class="romanianTitle">Română</p>
+  </div>
+
+  <div data-i18n-switcher>
   <img class="ukrainianFlag flag" src="../img/flags/ucraino.png" alt="Inglese">
+    <p class="ukrainianTitle">Україна</p>
+  </div>
+
+  <div data-i18n-switcher>
   <img class="chineseFlag flag" src="../img/flags/cinese.png" alt="Francese">
-  <p class="romanianTitle">Română</p>
-  <p class="ukrainianTitle">Україна</p>
   <p class="chineseTitle">中國人</p>
+  </div>
+
 </div>
 
 <script src="../js/language.js"></script>
