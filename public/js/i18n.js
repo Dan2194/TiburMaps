@@ -60,6 +60,7 @@ function translatePage() {
 // Replace the inner text of the given HTML element
 // with the translation in the active locale,
 // corresponding to the element's data-i18n-key
+
 function translateElement(element) {
   const key = element.getAttribute("data-i18n-key");
   const keyParts = key.split('.');
