@@ -62,14 +62,20 @@ function translatePage() {
 // corresponding to the element's data-i18n-key
 function translateElement(element) {
   const key = element.getAttribute("data-i18n-key");
-  const translation = translations[key];
-  element.innerText = translation;
+  const keyParts = key.split('.');
+  let translation = translations;
+
+  for (const part of keyParts) {
+    translation = translation[part];
+    if (!translation) break;
+  }
+
+  element.innerText = translation || '';
 }
+
 
 document.querySelectorAll("[data-i18n-switcher]").forEach(function(element) {
   element.addEventListener('click', function(e) {
     window.location.href = '/home';
   }, false);
 });
-
-console.log("ciao")

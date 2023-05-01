@@ -1,7 +1,5 @@
 {
-
-  "home-title": "What service do you need?",
-
-  "lead": "Welcome to my little spot on the interwebs!"
-
+  "home": {
+  "title": "What service do you need?"
+  }
 }
