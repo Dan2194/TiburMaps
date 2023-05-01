@@ -71,3 +71,5 @@ document.querySelectorAll("[data-i18n-switcher]").forEach(function(element) {
     window.location.href = '/home';
   }, false);
 });
+
+console.log("ciao")
