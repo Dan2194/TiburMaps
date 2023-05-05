@@ -43,6 +43,23 @@
     "list-5": "individuare un appartamento che sia agibile e accatastato;",
     "list-6": "individuare un appartamento che sia agibile e accatastato;verificare che l’immobile sia dotato di arredi, allacci e utenze (acqua, luce, gas, spazzatura): in altri termini deve essere abitabile, ossia idoneo a condurre una vita dignitosa.",
     "text-3": "Se tutte queste condizioni sono presenti, devi recarti presso l’ufficio anagrafe del Comune in cui intendi fissare la tua residenza per fare apposita richiesta: a tal fine devi portare con te una copia del codice fiscale e una copia di un documento di identità in corso di validità da consegnare al funzionario insieme alla domanda. Se sei cittadino straniero devi essere munito anche del titolo di soggiorno. In entrambi i casi devi indicare le generalità di tutti gli altri eventuali componenti del nucleo familiare."
+  },
+
+  "citizenship": {
+    "title": "Cittadinanza",
+    "subtitle-1": "Cittadinanza",
+    "text-1": "La cittadinanza italiana si acquista iure sanguinis, cioè se si nasce o si è adottati da cittadini italiani. Esiste una possibilità residuale di acquisto iure soli, se si nasce sul territorio italiano da genitori apolidi o se i genitori sono ignoti o non possono trasmettere la propria cittadinanza al figlio secondo la legge dello Stato di provenienza. La cittadinanza può essere richiesta anche dagli stranieri che risiedono in Italia da almeno dieci anni e sono in possesso di determinati requisiti. In particolare il richiedente deve dimostrare di avere redditi sufficienti al sostentamento, di non avere precedenti penali, di non essere in possesso di motivi ostativi per la sicurezza della Repubblica. Si può diventare cittadini italiani anche per matrimonio. La “cittadinanza per matrimonio” è riconosciuta dal prefetto della provincia di residenza del richiedente.",
+    "subtitle-2": "Invia una richiesta di cittadinanza:",
+    "text-2": "https://portaleservizi.dlci.interno.it/AliCittadinanza/",
+    "text-3": "Può così compilare il modello telematico di domanda, allegando nei prescritti campi informatici:",
+    "list-1": "documento di riconoscimento;",
+    "list-2": "atto di nascita e certificato penale formati dalle autorità del Paese di origine;",
+    "list-3": "certificazione attestante la conoscenza della lingua italiana, non inferiore al livello B1 del QCER",
+    "list-4": "ricevuta del pagamento del contributo di euro 250,00 previsto.",
+    "list-5": "estremi della marca da bollo telematica.",
+    "text-4": "Una volta compilata, la domanda viene trasmessa informaticamente alla Prefettura (per i residenti in Italia) o al Consolato (per i residenti all’estero) competente, che provvede alla successiva convocazione dei richiedenti.",
+    "subtitle-3": "Carta D’identità",
+    "text-5": "Per richiedere la carta d’identità è necessario presentarsi all’Ufficio Anagrafe del proprio Comune di residenza, con un valido documento di riconoscimento nel caso di cittadini dell’Unione Europea. Il passaporto in corso di validità ed il permesso di soggiorno (o la richiesta di rinnovo) nell’ipotesi di cittadini extracomunitari."
 
 
   }

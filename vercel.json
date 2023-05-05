@@ -2,7 +2,8 @@
   "routes": [
     { "src": "/home", "dest": "/pages/home.html" },
     { "src": "/residence-permit", "dest": "/pages/residence-permit.html" },
-    { "src": "/residence-domicile", "dest": "/pages/residence-domicile.html" }
+    { "src": "/residence-domicile", "dest": "/pages/residence-domicile.html" },
+    { "src": "/citizenship", "dest": "/pages/citizenship.html" }
 
   ]
 }
