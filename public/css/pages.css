@@ -29,12 +29,19 @@
 }
 
 .text {
-  display: flex;
+  display: block;
   margin: 1vw 20vw 4vw 12vw;
 }
 
 .text p{
   font-size: 1.5vw;
+  width:100%;
+}
+
+.text li{
+  width:100%;
+  font-size:1.5vw;
+  margin-bottom: 0.5vw;
 }
 
 .p-container {

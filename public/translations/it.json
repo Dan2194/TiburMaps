@@ -28,9 +28,21 @@
      "text-5": "Per convertire la tipologia del permesso di soggiorno di cui si è già in possesso bisogna chiedere il nulla osta allo Sportello unico per l'immigrazione della prefettura competente per territorio di residenza dello straniero e, poi, chiedere la conversione alla questura. Condizione per la conversione è che vi siano quote di ingresso previste dal decreto flussi e che il permesso di soggiorno posseduto sia in corso di validità. Il permesso di soggiorno per motivi di studio/formazione può essere convertito in permesso di soggiorno per attività di lavoro subordinato o autonomo se si possiedono i requisiti previsti per questa tipologia. Il permesso di soggiorno per lavoro stagionale può essere convertito in permesso di soggiorno per lavoro subordinato a tempo indeterminato o con contratto di almeno un anno quando: lo straniero abbia fatto ingresso in Italia per lavoro stagionale per il secondo anno consecutivo e sia in possesso di un permesso di soggiorno in corso di validità; lo straniero abbia fatto ingresso in Italia per lavoro stagionale e, alla fine del primo periodo di lavoro stagionale concesso, sia in possesso di un permesso di soggiorno in corso di validità.",
      "subtitle-6": "Hai bisogno del visto? scoprilo qui!",
      "text-6": "vistoperitalia.esteri.it/home.aspx"
+  },
 
-
-
+  "residence-domicile": {
+    "title": "Domicilio e Residenza",
+    "subtitle-1": "Differenza:",
+    "text-1": "É il luogo in cui la persona ha la dimora abituale (art. 43, II comma c.c.). Dal punto di vista giuridico, dunque, la residenza è diversa dal domicilio perché la prima ha a che fare con l’abitare e la seconda con la sede di affari e interessi.",
+    "list-1": "Al domicilio vengono solitamente inoltrate le comunicazioni di lavoro, si apre una tutela, si apre una successione a causa di morte, viene dichiarato il fallimento dell’imprenditore.",
+    "list-2": "Nel Comune di residenza si sceglie il medico di famiglia, si vota, si effettuano le pratiche per il matrimonio e si presentano le richieste dei certificati anagrafici.",
+    "subtitle-2": "Requisiti minimi Residenza:",
+    "list-3": "Iscrizione all’anagrafe",
+    "text-2": "È quindi necessario:",
+    "list-4": "avere un titolo di possesso della casa (documento di proprietà, contratto di locazione o di comodato e così via): è, dunque, fatto divieto di ottenere la residenza a chi occupa abusivamente un immobile;",
+    "list-5": "individuare un appartamento che sia agibile e accatastato;",
+    "list-6": "individuare un appartamento che sia agibile e accatastato;verificare che l’immobile sia dotato di arredi, allacci e utenze (acqua, luce, gas, spazzatura): in altri termini deve essere abitabile, ossia idoneo a condurre una vita dignitosa.",
+    "text-3": "Se tutte queste condizioni sono presenti, devi recarti presso l’ufficio anagrafe del Comune in cui intendi fissare la tua residenza per fare apposita richiesta: a tal fine devi portare con te una copia del codice fiscale e una copia di un documento di identità in corso di validità da consegnare al funzionario insieme alla domanda. Se sei cittadino straniero devi essere munito anche del titolo di soggiorno. In entrambi i casi devi indicare le generalità di tutti gli altri eventuali componenti del nucleo familiare."
 
 
   }
