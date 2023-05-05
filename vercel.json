@@ -1,5 +1,7 @@
 {
   "routes": [
-    { "src": "/home", "dest": "/pages/home.html" }
+    { "src": "/home", "dest": "/pages/home.html" },
+    { "src": "/residence-permit", "dest": "/pages/residence-permit.html" }
+
   ]
 }
