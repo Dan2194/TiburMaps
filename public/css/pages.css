@@ -1,0 +1,42 @@
+
+.Title {
+  display: inline-flex;
+  align-items: center;
+  margin: 0 2vw 2vw 2vw;
+}
+
+.Title img{
+  max-width: 8vw;
+  margin-right: 2vw;
+}
+
+.Title h1{
+  padding-top: 2vw;
+}
+
+.subTitle {
+  display: flex; !important;
+  background-color: yellow;
+  box-shadow: inset 0 16px 40px rgba(0, 0, 0, 0.2);
+}
+
+.subTitle p{
+  color: white;
+  font-weight: bold;
+  font-size: 2vw;
+  padding: 1vw 12vw;
+  margin: 0;
+}
+
+.text {
+  display: flex;
+  margin: 1vw 20vw 4vw 12vw;
+}
+
+.text p{
+  font-size: 1.5vw;
+}
+
+.p-container {
+  padding-bottom: 5vw;
+}

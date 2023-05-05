@@ -1,5 +1,38 @@
 {
+  "pages": {
+    "back": "Torna indietro"
+  },
+
   "home": {
-    "title": "Che servizio ti serve?"
+    "change-language": "Cambia lingua",
+    "title": "Che servizio ti serve?",
+    "residence-permit": "Permesso di soggiorno",
+    "residence": "Residenza",
+    "citizenship": "Cittadinanza / Carta d'identità",
+    "health-insurance-card": "Codice fiscale / Tessera Sanitaria",
+    "health-care": "Assistenza sanitaria",
+    "rights": "Diritti dei cittadini stranieri minori di 18 anni"
+  },
+
+  "residence-permit": {
+     "title": "Visto e permesso di soggiorno",
+     "subtitle-1": "Cos'è?",
+     "text-1": "Il visto è l'autorizzazione all'attraversamento delle frontiere ed è rilasciato, allo straniero, dallo Stato di destinazione del viaggio, mediante le rappresentanze diplomatico — consolari, presenti nel Paese di origine o di provenienza dello stesso cittadino straniero.\n\nIl visto è rilasciato dall'ambasciata italiana o dalle sedi consolari italiane del Paese di residenza del cittadino straniero; il permesso di soggiorno (articolo 5 del Testo unico immigrazione) è rilasciato in Italia dalle questure competenti a seconda della provincia nella quale si trova lo straniero. Il permesso di soggiorno va richiesto entro 8 giorni lavorativi (esclusi quindi la domenica e i festivi). I cittadini stranieri maggiori di 16 anni che entrano in Italia per la prima volta, sottoscrivono con lo Stato l'accordo di integrazione contestualmente alla richiesta di permesso di soggiorno.",
+     "subtitle-2": "Tipi di visto:",
+     "text-2": "Visto per motivi di studio/formazione: ha validità pari a quella del corso che si intende seguire in Italia. Visto per ricongiungimento familiare: ha validità di un anno dal suo rilascio; viene rilasciato ai familiari da ricongiungere a seguito del rilascio di un nulla osta al ricongiungimento richiesto. Visto per motivi di lavoro subordinato (a tempo indeterminato, determinato, stagionale): si ottiene solo dopo di 'nulla osta' al lavoro da parte dello sportello unico per l'Immigrazione (Sui). Per instaurare un rapporto di lavoro\n\nsubordinato con un cittadino extracomunitario residente all'estero, infatti, il datore di lavoro - italiano o straniero legalmente soggiornante in Italia - deve presentare richiesta nominativa di nulla osta al lavoro al Sui competente per la provincia nella quale si svolgerà l'attività lavorativa. Visto per motivi di lavoro autonomo: può essere richiesto per svolgere in Italia attività di lavoro autonomo non occasionale di carattere industriale, professionale, artigianale o commerciale; per costituire una società di capitali o di persone; per accedere a cariche societarie. Per ottenerlo occorre possedere i requisiti professionali e morali richiesti dalla legge dello Stato ai cittadini italiani per l'esercizio dello stesso tipo di attività.",
+     "subtitle-3": "Chi deve avere un visto?",
+     "text-3": "Afghanistan, Albania, Algeria, Angola, Antigua e Barbuda, Arabia Saudita, Armenia, Azerbaigian, Bahama, Bahrein, Bangladesh, Barbados, Bielorussia, Belize, Benin, Bhutan, Birmania/Myanmar, Bosnia-Erzegovina, Botswana, Burkina Faso, Burundi, Cambogia, Camerun, Capo Verde, Ciad, Cina, Colombia, Comore, Congo, Corea del Nord, Costa d'Avorio, Cuba, Dominica, Egitto, Emirati arabi uniti, Eritrea, Etiopia, ex Repubblica iugoslava di Macedonia, Figi, Filippine, Gabon, Gambia, Georgia, Ghana, Giamaica, Gibuti, Giordania, Grenada, Guinea, Guinea Bissau, Guinea equatoriale, Guyana, Haiti, India, Indonesia, Iran, Iraq, Kazakstan, Kenya, Kirghizistan, Kiribati, Kuwait, Laos, Lesotho, Libano, Liberia, Libia, Madagascar, Malawi, Maldive, Mali, Marianne settentrionali, Marocco, Marshall (isole), Mauritania, Mauritius, Micronesia, Moldova, Mongolia, Mozambico, Namibia, Nauru, Nepal, Niger, Nigeria, Oman, Pakistan, Palau, Papua Nuova Guinea, Perù, Qatar, Repubblica centrafricana, Repubblica democratica del Congo, Repubblica dominicana, Repubblica federale di Iugoslavia (Serbia e Montenegro), Ruanda, Russia, Saint Christopher (Saint Kitts) e Nevis, Saint Lucia, Saint Vincent e Grenadine, Salomone, Isole, Samoa, São Tomé e Príncipe, Seicelle, Senegal, Sierra Leone, Siria, Somalia, Sri Lanka, Sudafrica, Sudan, Suriname, Swaziland, Tagikistan, Tanzania, Thailandia, Togo, Tonga, Trinidad e Tobago, Tunisia, Turchia, Turkmenistan, Tuvalu, Ucraina, Uganda, Uzbekistan, Vanuatu, Vietnam, Yemen, Zambia, Zimbabwe.",
+     "subtitle-4": "Chi NON deve avere un visto?",
+     "text-4": "Andorra, Argentina, Australia, Bolivia, Brasile, Brunei, Bulgaria, Canada, Cile, Cipro, Corea del Sud, Costa Rica, Croazia, Ecuador, El Salvador, Estonia, Giappone, Guatemala, Honduras, Israele, Lettonia, Lituania, Malesia, Malta, Messico, Monaco, Nicaragua, Nuova Zelanda, Panama, Paraguay, Polonia, Repubblica ceca, Romania (*), San Marino, Santa Sede, Singapore, Slovacchia, Slovenia, Stati Uniti, Svizzera, Ungheria, Uruguay, Venezuela.",
+     "subtitle-5": "Conversione del permesso di soggiorno",
+     "text-5": "Per convertire la tipologia del permesso di soggiorno di cui si è già in possesso bisogna chiedere il nulla osta allo Sportello unico per l'immigrazione della prefettura competente per territorio di residenza dello straniero e, poi, chiedere la conversione alla questura. Condizione per la conversione è che vi siano quote di ingresso previste dal decreto flussi e che il permesso di soggiorno posseduto sia in corso di validità. Il permesso di soggiorno per motivi di studio/formazione può essere convertito in permesso di soggiorno per attività di lavoro subordinato o autonomo se si possiedono i requisiti previsti per questa tipologia. Il permesso di soggiorno per lavoro stagionale può essere convertito in permesso di soggiorno per lavoro subordinato a tempo indeterminato o con contratto di almeno un anno quando: lo straniero abbia fatto ingresso in Italia per lavoro stagionale per il secondo anno consecutivo e sia in possesso di un permesso di soggiorno in corso di validità; lo straniero abbia fatto ingresso in Italia per lavoro stagionale e, alla fine del primo periodo di lavoro stagionale concesso, sia in possesso di un permesso di soggiorno in corso di validità.",
+     "subtitle-6": "Hai bisogno del visto? scoprilo qui!",
+     "text-6": "vistoperitalia.esteri.it/home.aspx"
+
+
+
+
+
   }
+
 }
