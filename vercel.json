@@ -3,7 +3,9 @@
     { "src": "/home", "dest": "/pages/home.html" },
     { "src": "/residence-permit", "dest": "/pages/residence-permit.html" },
     { "src": "/residence-domicile", "dest": "/pages/residence-domicile.html" },
-    { "src": "/citizenship", "dest": "/pages/citizenship.html" }
-
+    { "src": "/citizenship", "dest": "/pages/citizenship.html" },
+    { "src": "/fiscal-code", "dest": "/pages/fiscal-code.html" },
+    { "src": "/health-care", "dest": "/pages/health-care.html" },
+    { "src": "/rights", "dest": "/pages/rights.html" }
   ]
 }
