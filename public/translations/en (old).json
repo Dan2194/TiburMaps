@@ -1,0 +1,38 @@
+{
+  "pages": {
+    "back": "Come back"
+  },
+  "home": {
+    "change-language": "Change language",
+    "title": "What service do you need?",
+    "residence-permit": "Residence permit",
+    "residence": "Residence",
+    "citizenship": "Citizenship / Identity Card",
+    "health-insurance-card": "Fiscal code / Health card",
+    "health-care": "Health care",
+    "rights": "Rights of foreign citizens under the age of 18"
+
+  },
+
+  "residence-permit": {
+    "title": "Visa and residence permit",
+    "subtitle-1": "What is it?",
+    "text-1": "The visa is the authorization to cross borders and it's released to the foreigner by the State of destination of the travel, through diplomatic representations - consular, present in the country of origin of the same foreign citizen.\n\nThe visa is issued by the Italian embassy or by the Italian consular offices of the country of residence of the foreign citizen; the residence permit (Article 5 of the United Immigration Act) is issued in Italy by the competent police authorities depending on the province in which the foreigner is located. The residence permit must be requested within 8 working days (excluding Sundays and public holidays). Foreign citizens over 16 years old who enter Italy for the first time, sign with the State the integration agreement together with the application for a residence permit",
+    "subtitle-2": "Types of visa:",
+    "text-2": "Study/training visa: validity of the course meant to follow in Italy.\n\nFamily reunification visa: valid for one year after it's released; issued to family members to be reunited following the issue of a clearance for reunification required.\n\nVisa for paid employment purposes (open-ended, determined, seasonal): it's obtained only after a 'clearance' to work by the Immigration office \"sportello unico\" (Sui). To establish a subordinate working relationship with a non-EU citizen resident abroad, in fact, the employer - Italian or foreign legally resident in Italy - must apply the named clearance to work to the competent Sui for the province in which the work will take place.\n\nSelf-employment visa: may be required to work in Italy as a non occasional self-employer with industrial, professional, handcrafting or commercial character; to set up a limited company; to access corporate offices. To obtain it, you must meet the same professional and moral requirements requested by the law of the State to Italian citizens for the exercise of the same type of activity.",
+    "subtitle-3": "Who must have a visa?",
+    "text-3": "Afghanistan, Albania, Algeria, Angola, Antigua e Barbuda, Saudi Arabia, Armenia, Azerbaijan, Bahama, Bahrain, Bangladesh, Barbados, Bielorussia, Belize, Benin, Bhutan, Burma/Myanmar, Bosnia-Erzegovina, Botswana, Burkina Faso, Burundi, Cambogia, Camerun, Capo Verde, Ciad, Cina, Colombia, Comore, Congo, North Korea, Ivory Coast, Cuba, Dominica, Egypt, United Arab Emirates, Eritrea, Ethiopia, Former Yugoslav Republic of Macedonia, Fiji, Philippines, Gabon, Gambia, Georgia, Ghana, Jamaica, Djibouti, Jordan, Grenada, Guinea, Guinea Bissau, Equatorial Guinea, Guyana, Haiti, India, Indonesia, Iran, Iraq, Kazakhstan, Kenya, Kyrgyzstan, Kiribati, Kuwait, Laos, Lesotho, Lebanon, Liberia, Libya, Madagascar, Malawi, Maldives, Mali, Northern Marianne, Morocco, Marshall (islands), Mauritania, Mauritius, Micronesia, Moldova, Mongolia, Mozambique, Namibia, Nauru, Nepal, Niger, Nigeria, Oman, Pakistan, Palau, Papua New Guinea, Peru, Qatar, Central African Republic, Democratic Republic of the Congo, Dominican Republic, Federal Republic of Yugoslavia (Serbia and Montenegro), Rwanda, Russia, Saint Christopher (Saint Kitts) and Nevis, Saint Lucia, Saint Vincent and the Grenadines, Solomon Islands, Samoa, São Tomé and Príncipe, Seychelles, Senegal, Sierra Leone, Syria, Somalia, Sri Lanka, South Africa, Sudan, Suriname, Swaziland, Tajikistan, Tanzania, Thailand, Togo, Tonga, Trinidad and Tobago, Tunisia, Turkey, Turkmenistan, Tuvalu, Ukraine, Uganda, Uzbekistan, Vanuatu, Vietnam, Yemen, Zambia, Zimbabwe.",
+    "subtitle-4": "Who does NOT need a visa?",
+    "text-4": "Andorra, Argentina, Australia, Bolivia, Brazil, Brunei, Bulgaria, Canada, Chile, Cyprus, South Korea, Costa Rica, Croatia, Ecuador, El Salvador, Estonia, Japan, Guatemala, Honduras, Israel, Latvia, Lithuania, Malaysia, Malta, Mexico, Monk, Nicaragua, New Zealand, Panama, Paraguay, Poland, Czech Republic, Romania (*), San Marino, Holy See, Singapore, Slovakia, Slovenia, United States, Swiss, Hungary, Uruguay, Venezuela.",
+    "subtitle-5": "Conversion of the residence permit",
+    "text-5": "To convert the type of residence permit that's already in possession, you must request the clearance from the Immigration office \"sportello unico\" of the prefecture competent for the foregner's territory of residence and then ask for the conversion to the police. The condition for the conversion is that to have entry fees expected by the decree flows and that the residence permit held is valid.\n\nThe residence permit for study/training purposes may be converted into a residence permit for employment or self-employment if you meet the requirements provided for this type. The residence permit for seasonal work may be converted into a residence permit for open-end employment or with a contract of at least one year when:\n\nThe foreigner has entered Italy for seasonal work for the second consecutive year and is in possession of a valid residence permit; the foreigner has entered Italy for seasonal work and, at the end of the first period of seasonal work granted, is in possession of a residence permit in validity course.",
+    "subtitle-6": "Do you need a visa? Find it here!",
+    "text-6": "vistoperitalia.esteri.it/home.aspx"
+
+
+
+
+
+  }
+
+}
