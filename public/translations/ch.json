@@ -1,0 +1,109 @@
+{
+  "pages": {
+    "back": "回來"
+  },
+
+  "home": {
+    "change-language": "改變語言",
+    "title": "您需要什麼服務?",
+    "residence-permit": "居留許可",
+    "residence": "住宅",
+    "citizenship": "公民身份/身份證",
+    "health-insurance-card": "財政代碼/健康卡",
+    "health-care": "衛生保健",
+    "rights": "18 歲以下外國公民的權利"
+  },
+
+  "residence-permit": {
+     "title": "签证及居留证",
+     "subtitle-1": "這是什麼啊?",
+     "text-1": "签证是跨越国界的授权,由旅行目的地国通过驻在原籍国或同一外国公民原籍国的外交领事代表发给外国人。签证由意大利大使馆或外国公民居住国的意大利领事馆签发;居留证(《综合移民法》第5条)由主管警察总部在意大利签发,具体取决于外国人所在的省份。",
+     "subtitle-2": "签证种类:",
+     "text-2": "用于学习/培训目的的签证:它的有效期与您打算在意大利学习的课程相同。家庭团聚签证:自签发之日起,有效期为一年;在申请团聚后,发给家庭成员团聚。就业签证(永久的,固定的,季节性的):只有在\"nulla osta\"之后才能获得移民一站式商店(Sui)的工作。 为了与国外的公民和社区居民建立就业关系,事实上,雇主-意大利或合法居住在意大利的外国-必须向负责工作的省份的Sui提交nulla osta al lavoro的提名请求。自雇签证:在意大利进行非偶然的工业、专业、工艺或商业性质的自雇活动;成立有限公司或个人;进入公司办事处。 要获得它,必须具备国家法律对意大利公民进行同类活动所要求的专业和道德要求。",
+     "subtitle-3": "谁必须有签证?",
+     "text-3": "阿富汗 阿尔巴尼亚 阿尔及利亚 安哥拉 安提瓜和巴布达 沙特阿拉伯 亚美尼亚 阿塞拜疆 巴哈马 巴林 孟加拉国 巴巴多斯 白俄罗斯 伯利兹 贝宁 不丹 缅甸/男子 波斯尼亚和黑塞哥维那 博茨瓦纳 布基纳法索 布隆迪 柬埔寨 喀麦隆 佛得角 乍得 中国 哥伦比亚 科摩罗 刚果 北朝鲜 象牙海岸 古巴 多米尼加 埃及 阿拉伯联合酋长国 厄立特里亚 埃塞俄比亚 南斯拉夫的马其顿共和国 斐济 菲律宾 加蓬 冈比亚 格鲁吉亚 加纳 牙买加 吉布提 约旦 格林纳达 几内亚 几内亚比绍 赤道几内亚 Gu 海地 印度 印度尼西亚 伊朗 伊拉克 哈萨克斯坦 肯尼亚 吉尔吉斯斯坦 基里巴斯 科威特 老挝 莱索托 利巴诺 利比里亚 利比亚 马达加斯加 马拉维 马尔代夫群岛 马里 北马里亚纳群岛 摩洛哥 马绍尔群岛 毛里塔尼亚 毛里求斯 密克罗尼西亚 摩尔多瓦 蒙古国 莫桑比克 纳米比亚 瑙鲁 尼泊尔 尼日尔 尼日利亚 阿曼 巴基斯坦 帕劳 巴布亚新几内亚 秘鲁 卡塔尔 [医]毛细血管 刚果民主共和国 多米尼加共和国 南斯拉夫联盟共和国(塞尔维亚 和黑山) 鲁达 俄罗斯 圣克里斯托弗(圣基茨和尼维斯) 圣卢西亚 圣文森特和格林纳丁斯 所罗门群岛 萨摩亚群岛 S汤姆 塞舌尔 塞内加尔 塞拉利昂 叙利亚 索马里人 斯里兰卡 南非 苏丹 苏里南 萨兹 塔吉克斯坦 坦桑尼亚 泰国 多哥 汤加 特立尼达和多巴哥 突尼斯 土耳其 土库曼斯坦 图瓦卢 乌克兰 乌干达 乌兹别克斯坦 瓦努阿图 越南 也门 赞比亚 津巴布韦人",
+     "subtitle-4": "谁不需要签证?",
+     "text-4": "安道尔 阿根廷 澳大利亚 玻利维亚 巴西 文莱 保加利亚 加拿大 智利 塞浦路斯 韩国 哥斯达黎加 克罗地亚 厄瓜多尔 萨尔瓦多 爱沙尼亚 日本 危地马拉 洪都拉斯 以色列 拉脱维亚 立陶宛 马来西亚 马耳他 墨西哥 慕尼黑 尼加拉瓜 新西兰 巴拿马 巴拉圭 波兰 捷克共和国 罗马尼亚(*) 圣马力诺 罗马教廷 新加坡 斯洛伐克 斯洛文尼亚 美国 瑞士 匈牙利 乌拉圭 委内瑞拉",
+     "subtitle-5": "转换居留证",
+     "text-5": "要转换你已持有的居留证类型,你必须到负责的地区的一站式入境商店办理清关手续。 外国人居住的领土,然后要求转到警察总部. 转换的条件是有法令规定的入境配额,并 居留证是有效的. 学习/培训目的的居留证可以转换为就业或自雇活动的居留证,如果你符合这种类型的要求。 季节性工作的居留证可转换为永久就业的居留,或在以下情况下签订至少一年的合同: 学习/培训目的的居留证可以转换为就业或自雇活动的居留证,如果你符合这种类型的要求。外国人进入意大利从事季节性工作,在第一期季节性工作结束时,持有有效的居留证。",
+     "subtitle-6": "你需要签证吗? 在这里找到!",
+     "text-6": "签证到意大利 (esteri.it)"
+  },
+
+  "residence-domicile": {
+    "title": "住所和住所",
+    "subtitle-1": "差异:",
+    "text-1": "住所是父母的主要總部所在地事務和利益 [憲法第 14 條，條款《民法典》第 45 條和第 46 條]。住所是該人經常居住的地方（第 43 條第 II 款）民法典之分節）。因此，從法律的角度來看，住所是不同的來自住所，因為前者與生活有關，而取決於業務地點和興趣。",
+    "list-1": "在住所,工作通信通常被转发,监护权开放,继承因死亡而开放,企业家破产被宣布。",
+    "list-2": "在居住地,选择家庭医生,投票,办理结婚手续并提交个人证书申请。",
+    "subtitle-2": "最低居住要求:",
+    "list-3": "在登记处登记",
+    "text-2": "因此有必要:",
+    "list-4": "拥有房屋所有权(所有权文件,租赁或贷款协议等):因此,禁止非法占有财产的人获得住所;",
+    "list-5": "找到一个可访问和堆叠的公寓;",
+    "list-6": "检查物业配备家具,连接和公用设(水,电,煤气,垃圾):换句话说,它必须是可居住的,即适合过上有尊严的生活。",
+    "text-3": "如果所有这些条件都存在,你必须到你打算修复你的住所的市政府登记处提出具体要求:为此 ,你必须随身携带一份税法副本和一份有效身份证件副本,连同申请一起交给官员。 如果你是外国公民,你还必须有居留证. 在这两种情况下,您必须指出家庭单位的所有其他可 能成员的一般性。"
+  },
+
+  "citizenship": {
+    "title": "公民及身份证",
+    "subtitle-1": "公民身份",
+    "text-1": "在意大利居住至少十年并有某些要求的外国人也可以申请公民身份。特别是,申请人必须证 明他有足够的收入来养活自己,他没有犯罪记录,他没有理由妨碍共和国的安全。 你也可以通过婚姻成为意大利公民。 \"婚姻公民身份\"由申请人居住省省长承认。",
+    "subtitle-2": "递交入籍申请:",
+    "text-2": "https://portaleservizi.dlci.interno.it/AliCittadinanza/",
+    "text-3": "因此,它可以填写远程信息处理申请表,附加在规定的计算机领域:",
+    "list-1": "身份证明文件;",
+    "list-2": "出生证明和原籍国当局形成的犯罪证明;",
+    "list-3": "证明意大利语言知识的认证,不低于CEFR的B1水平",
+    "list-4": "收到预期的250,00欧元捐款。",
+    "list-5": "電子印花稅票的詳細信息。",
+    "text-4": "一旦完成,申请将以电子方式传送到省(意大利居民)或主管领事馆(国外居民),以便随后召集申请人。",
+    "subtitle-3": "身份证",
+    "text-5": "要申请身份证,必须到你居住的市政登记处出示有效的身份证明文件。 在公民和公民的情况下,有效护照和居留许可(或续签请求)"
+  },
+
+  "fiscal-code": {
+    "title": "Codice fiscale e Tessera Sanitaria",
+    "subtitle-1": "Codice fiscale e Tessera Sanitaria",
+    "text-1": "I cittadini stranieri che desiderano richiedere la tessera sanitaria devono iscriversi al Servizio Sanitario Nazionale (SSN). L'iscrizione al SSN ha generalmente la stessa durata del permesso di soggiorno. Alla scadenza, il cittadino che ha ottenuto il rinnovo del permesso di soggiorno deve rivolgersi nuovamente all’ASL competente per rinnovare l'iscrizione e richiedere una nuova tessera sanitaria.\n\nPer l'iscrizione del cittadino al Servizio Sanitario Nazionale, l'ASL può anche utilizzare il codice fiscale provvisorio attribuito dall'Agenzia delle Entrate (anche a seguito delle richieste provenienti dal Ministero dell'Interno come lo Sportello Unico dell'Immigrazione o la Questura, per la procedura di emersione dal lavoro irregolare).\n\nSe il codice fiscale numerico provvisorio attribuito al cittadino straniero è stato assegnato a causa di una possibile omocodia (cioè due o più persone con dati anagrafici tali da generare lo stesso codice fiscale), l'ASL inviterà il cittadino a rivolgersi agli uffici dell'Agenzia delle Entrate per farsi attribuire il codice fiscale definitivo.\n\nIl codice fiscale richiesto dai cittadini all'Agenzia delle Entrate entro i primi 90 giorni di soggiorno in Italia è valido anche oltre tale periodo, in quanto non ha alcun legame con il permesso di soggiorno. Anche questo codice fiscale, pertanto, in presenza delle condizioni per l'emersione dei rapporti di lavoro irregolare, può essere utilizzato per l'iscrizione al Servizio Sanitario Nazionale.\n\nI cittadini stranieri che soggiornano regolarmente in Italia, ma che non rientrano nelle tipologie sopra descritte e sono in possesso di un permesso di soggiorno per un periodo superiore a tre mesi (e non sono obbligati all'iscrizione al SSN), possono comunque iscriversi volontariamente al Servizio Sanitario Nazionale, versando un contributo forfettario annuale.",
+    "subtitle-2": "Cittadini in attesa di regolarizzazione",
+    "text-2": "I cittadini in attesa di regolarizzazione possono comunque essere iscritti al Servizio Sanitario Nazionale con il codice fiscale numerico provvisorio (solitamente rilasciato dallo Sportello Unico dell'Immigrazione o dalla Questura), presentando all'ASL la ricevuta della domanda di regolarizzazione.\n\nIn questo caso, non verrà inviata automaticamente la tessera sanitaria, ma potrà essere rilasciato dall’ASL solo un certificato sostitutivo, che contiene il numero identificativo della tessera sanitaria.\n\nSe il cittadino straniero per il quale è stata richiesta la regolarizzazione non conosce il codice fiscale che gli è stato attribuito, le ASL hanno a disposizione una procedura che consente di recuperarlo, inserendo i dati anagrafici completi del cittadino.\n\nIl cittadino straniero non in regola con le norme relative all'ingresso e al soggiorno in Italia ha diritto, comunque, alle cure ambulatoriali e ospedaliere urgenti o essenziali, anche se continuative, alle cure per malattia e infortunio nelle strutture pubbliche o private convenzionate. A tal fine, dovrà richiedere all’ASL un tesserino chiamato “STP” (Straniero Temporaneamente Presente) valido sei mesi ed eventualmente rinnovabile.\n\nSull'assistenza sanitaria dei cittadini stranieri sono disponibili ulteriori informazioni in una sezione del sito del Ministero della Salute contenente le risposte alle domande più frequenti.",
+    "subtitle-3": "Emissione e validità della tessera sanitaria",
+    "text-3": "Contestualmente all'iscrizione al Servizio Sanitario Nazionale, l'ASL richiede l'emissione della tessera sanitaria, trasmettendo in via telematica al Sistema Tessera Sanitaria i dati relativi all'assistenza del cittadino.\n\nLa tessera ha la stessa validità della durata del permesso di soggiorno e viene spedita al domicilio fiscale registrato nella banca dati dell'Agenzia delle Entrate.\n\nSe il cittadino ha cambiato domicilio, prima di andare all'ASL per l'iscrizione al Servizio Sanitario Nazionale, deve comunicare la nuova residenza."
+
+  },
+
+  "health-care": {
+    "title": "衛生保健",
+    "subtitle-1": "如何获得医疗服务",
+    "text-1": "对于经常居住的外国人,有义务在国家卫生服务处登记(1998年7月25日,第286号,第34条)。 持有居留证并以雇员或个体经营的身份进行定期工作的人可以登记。 根据第286/1998号法令第19条第2款d-之二的规定,定期在意大利居留或因受扶养或自雇工 作、家庭原因、庇护、辅助保护、特殊情况、特殊保护、医疗、庇护申请、待收养、拘留、取得 公民身份和经常在意大利居留的受扶养家庭成员而要求延长居留许可。 经常留在意大利的外国公民,但不属于上述类别,并持有为期三个月以上的居留证(没有义务 在SSN登记),仍可自愿向国家卫生服务机构登记,每年缴纳统一缴款(有关\"如何在SSN自愿 登记\"网页的进一步资料)。 非贫困人口向NHS登记的费用。 注册到SSN预计将支付相当于€388.00的贡献。 所有通过纳税申报表缴纳税款的人都不需要支付注册到期的缴款,因为纳税还包括在NHS注 册的缴款。 在这种情况下,除了所需的文件外,还要向有关的本地健康公司(ASL)提供一份税表模型的 RV框架副本。 为学习目的居住在意大利的外国公民必须支付相当于149.77欧元的小额捐款,并且必须以居 住地区或居住地区的名义在特别邮政公告(将在相关的ASL收取)上付款,并在登记时交付付 款收据。 如果外国人是免费的,注册SSN是免费的:",
+    "list-1": "持有居留证并在就业名单上登记或持有待就业许可证的失业者",
+    "list-2": "她是一名难民,持有定期证明难民和/或寻求庇护者身份的证书;",
+    "list-3": "她嫁给了一个意大利公民,并依赖于同一个;",
+    "list-4": "是父母居住在意大利的未成年人,属于上述类别之一。",
+    "subtitle-2": "何时支付注册SSN的供款?",
+    "text-2": "注册SSN的缴款是在意大利未提交纳税申报表且未缴纳相关税款时到期的。 相反,已提交定期纳税申报表并支付相关税款的外国人将不必支付任何供款。",
+    "subtitle-3": "如何注册SSN",
+    "text-3": "如果你有普通居留证,你可以联系你居住的城市的ASL,或者,如果你还不是居民,到居住证 上注明的实际居住的城市登记。 登记所需文件",
+    "list-5": "居留证上所示的居留证或实际居留证明书",
+    "list-6": "有效居留证或续期申请",
+    "list-7": "税法或自我证明",
+    "list-8": "对于学生公民,在学习过程中入学的自我证明 ",
+    "list-9": "对于非盟对: 宣布其地位",
+    "list-10": "邮政付款收据",
+    "subtitle-4": "不经常逗留的人士",
+    "text-4": "不经常逗留的人士 为没有居留许可的外国人提供保健服务是通过签发一张带有个人地区代码STP(外国人临时 在场)的卡来提供的,该卡可以识别受助人提供的所有服务。 卫生系统确保在公共和认可的设施中为疾病和事故提供紧急、必要和持续的门诊和医院护理。 还可以获得预防医学和保护个人和集体健康的计划。STP代码 (外国临时在场) 在第一次提供援助期间,不定期出现的外国人必须获得在全国领土内得到承认的首字母缩略 词STP(临时出现的外国人)的个别区域代码。 该守则还规定了移民人偿还公共和私人机构提 供的福利 信用。 在没有身份证件的情况下,卫生机构必须着手登记受助人提供的详细资料。 卫生部2000年3 月24日,第5号)。 STP代码的发行有效期为六个月,如果外国人在国家领土上停留,可以续签。",
+    "subtitle-5": "有关方面",
+    "text-5": "即使在没有护照或其他文件的情况下,STP代码也必须签发。 地图STP下降点 http://www.scamilloforlanini.rm.it/images/PDF/sportelli_ambulatori_stp_eni_con_telefoni_agg _luglio-2022.pdf STP代码是在您的个人数据声明后发布的(并非强制性持有身份证件),并允许您在参与支出 (门票)方面与意大利公民平等地接受基本医疗服务。"
+  },
+
+  "rights": {
+    "title": "18岁以下外国人的权利",
+    "subtitle-1": "18岁以下外国人的权利",
+    "text-1": "进入意大利的外国未成年人,即使是非法的,也享有《儿童权利公约》(1989年)所保障的一切权 利,该公约的原则之一是,在所有有关儿童的决定中,必须首先考虑儿童的\"最大利益\"。 分配给18岁以下外国公民的居留许可类型有:未成年人许可、监护许可、家庭许可、社会保护许 可、庇护申请许可、庇护许可。 总之,进入意大利的外国未成年人有下列情况之一: 在国家境内暂时欢迎的未成年人:是6岁以上的未成年人和社区,在意大利作为机构、 协会或家庭促进的临时接待团结计划的一部分进入,或由一个或多个具有支持、指导 和陪伴功能的成年人跟随的未成年人; 陪同未成年人:受正式规定委托给经常居住的第三学位内的亲属; 无人陪伴的未成年人:没有父母或其他成年人对他们的协助或代表负法律责任的未成 年人。 内政部负责管理和保护罗马尼亚国籍的无人陪伴未成年人。 对于其他人来说,处理它的政府 是劳动和社会政策部。",
+    "subtitle-2": "教育指引",
+    "text-2": "所有外国未成年人,即使没有居留证,也有权在学校入学,不仅是义务,而且是每一个秩序和 学位。 可以在一年中的任何时候按照为意大利未成年人提供的方式要求登记。 6至16岁的义务教育儿童必须由其父母或监护人报名参加与其年龄相应的班级,除非教师委员 会决定报名参加不同的班级。",
+    "subtitle-3": "健康护理",
+    "text-3": "持有居留证的外国未成年人必须由行使居留证的人登记。对国家卫生服务机构(SSN)的授权 或保护,从而有权获得所提供的所有卫生服务。 题词,与随后的选择或 为未成年人分配家庭医生或儿科医生,在居住地或居住地的当地健康 公司进行。 在注册时,您将获得个人健康卡,您有权免费或通过支付健康票来享受这些福利。 没有居留许可的外国未成年人不能参加SSN,但他们仍然有权获得必要的门诊和医院护理, 紧急护理和 对那些继续存在的人,对那些负责疾病和事故以及预防医学的人:有保证的服务,例 如疫苗接种、国际预防、诊断、预防和治疗传染病。 在意大利,监督临时入境未成年人的住所并协调其他主管部门的活动的行政部门是劳动和社 会政策部(移民和融合政策总局)。 对于罗马尼亚未成年人,处理他们的当局是内政部(公民自 由和移民部)。"
+  }
+}
