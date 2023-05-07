@@ -3,7 +3,6 @@
   width: 100%;
   display: inline-flex;
   justify-content: space-between;
-  padding-left: 2vw;
 }
 
 .logo {
@@ -11,6 +10,7 @@
   align-items: center;
   font-weight: 700;
   font-size: 1.5vw;
+  margin-left: 2vw;
 }
 
 .logoImage {
